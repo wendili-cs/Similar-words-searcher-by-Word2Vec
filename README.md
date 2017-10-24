@@ -23,4 +23,4 @@ Then, after it trained, we can turn on the TO_JUDGE switch and search.
  
 By the way, we can also get a picture about the words' distribution projected to 2 dim world.
 
- ![pic](https://github.com/AdamAlive/MarkdownRef/blob/master/202.jpg?raw=true )
+ ![pic](https://github.com/AdamAlive/MarkdownRef/blob/master/202.png?raw=true )
