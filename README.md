@@ -27,6 +27,8 @@
 
  ![pic](https://github.com/AdamAlive/MarkdownRef/blob/master/202.png?raw=true )
 
+*********************
+
 ## How to use
 
  - Just run the python code `` python Simarliy_Searcher_byWord2Vec.py `` and if you haven't download the dataset, it will download automatically. Train it and switch on `` TO_SAVE ``, Then run again with `` TO_JUDGE `` on, then you can input words to find its similar words.
